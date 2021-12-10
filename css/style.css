@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(31, 27, 27);
+    color: white;
+}
+
+p {
+    color:orange;
+}
+
+div {
+    width: 500px;
+}
+
+span {
+    color: yellow;
+}
+
+h1 {
+    font-size: 70px;
+    color: cadetblue;
+}
+
+.top-section {
+
+}
+
+.bottom-section {
+
+}
+
+.intro {
+    color: orangered;
+}
+
+.outro {
+    font-size: 15px;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+/*  Always use height and width to reserve the space in the page so
+if the pic takes longer to load it can occupy the space so
+it does not shift other content. */
+.sushi {
+    height: auto;
+    width: 200px;
+}
